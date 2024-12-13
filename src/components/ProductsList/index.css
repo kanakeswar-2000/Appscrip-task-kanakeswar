@@ -1,0 +1,6 @@
+.products-container{
+    list-style-type:none;
+    padding:10px;
+    display:flex;
+    flex-wrap:wrap;
+}
